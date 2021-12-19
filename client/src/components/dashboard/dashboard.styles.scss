@@ -1,0 +1,39 @@
+.dashboard-background {
+  width: 900px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -300px;
+  margin-left: -450px;
+}
+
+.button-bar {
+  margin-left: 0!important;
+  margin-right: 0!important;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border: 1px solid rgba(0,0,0,.2);
+}
+
+.button-spacing {
+  margin-left: 5px;
+}
+
+.dashboard {
+  width: 900px;
+  height: 600px;
+  background-color: rgba(203, 203, 210, 0.15);
+  border: 1px solid rgba(0,0,0,.2);
+  position: absolute;
+}
+
+.spinner {
+  color: rgba(0,0,0,0.4);
+}
+
+.blocking {
+  width: 900px;
+  height: 600px;
+  background-color: rgba(255, 255, 255, 0.6);
+  position: absolute;
+}
